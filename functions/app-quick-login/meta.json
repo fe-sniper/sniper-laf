@@ -1,0 +1,1 @@
+{"name":"app-quick-login","label":"App: 手机号+短信快速登陆","hash":"a7dfe0498d6e90849cc438bf49306376","tags":["App","用户"],"description":"App: 手机号+短信快速登陆，新用户自动注册并登陆，老用户直接登陆","enableHTTP":true,"status":1,"triggers":[],"version":3}

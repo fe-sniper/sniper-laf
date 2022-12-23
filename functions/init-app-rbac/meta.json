@@ -1,0 +1,1 @@
+{"name":"init-app-rbac","label":"Init: 初始化应用 RBAC 数据","hash":"96e609119b61e808cfa55213231b1a76","tags":["初始化"],"description":"初始化一个经典的 RBAC，包括基础的权限、角色、初始管理员","enableHTTP":false,"status":1,"triggers":[],"version":2}

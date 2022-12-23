@@ -1,0 +1,1 @@
+{"name":"initializer","label":"Init: 应用初始化器","hash":"3002957459543ba8d770d11d3effc99e","tags":["初始化"],"description":"","enableHTTP":false,"status":1,"triggers":[{"name":"监听应用启动就绪事件","type":"event","event":"App:ready","desc":"","status":1,"_id":"613a347c1ce6a2f7b5d49c16"}],"version":13}
